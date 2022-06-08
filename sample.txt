@@ -1,2 +1,3 @@
 this is a sample file 
 made some corrections
+made changes form gui
